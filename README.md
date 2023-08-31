@@ -1,9 +1,9 @@
 # Frontend Mentor - Product preview card component
 
+## Welcome! 👋
+
 ![Alt text](assets/design/desktop-preview.jpg)
 ![Alt text](assets/design/mobile-design.jpg)
-
-## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
